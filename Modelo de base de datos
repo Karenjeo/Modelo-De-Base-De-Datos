@@ -11,3 +11,17 @@ Profesores
 	Función: string
 	
 }
+Alumno
+{
+	_id: string,
+	Cedula: int,
+	Nombre: string,
+	Apellido: string,
+	Correo: string
+	Teléfono: int,
+	Dirección: string,
+	Nota: int,
+	id_pro: string
+	
+}
+
