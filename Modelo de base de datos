@@ -1,0 +1,13 @@
+
+Profesores
+{
+	_id: string,
+	Cedula: int
+	Nombre: string,
+	Apellido: string,
+	Correo: string
+	Teléfono: int,
+	Dirección: string,
+	Función: string
+	
+}
