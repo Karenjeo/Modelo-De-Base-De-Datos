@@ -11,6 +11,7 @@ Profesores
 	Función: string
 	
 }
+
 Alumno
 {
 	_id: string,
@@ -25,3 +26,10 @@ Alumno
 	
 }
 
+Horario
+{
+	 _id=string,
+	Hora_entrada: string,
+	Hora_final: string,
+	id_pro:string
+}
